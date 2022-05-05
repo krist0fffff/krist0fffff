@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krist0fffff
 - 👀 I’m interested in getting a career in IT Industry
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently enrolled in cs50
 
 
 <!---
