@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @krist0fffff
-- 👀 I’m interested in getting a career in IT Industry
-- 🌱 I’m currently enrolled in cs50
+Passionate Computer Science graduate seeking to use my skills and knowledge in an entry-level position. I have work experiences but not IT related. I am taking my time in learning programming by reading articles, watching videos and enrolling in online courses like CS50's Introduction to Computer Science - Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 
 
 <!---
